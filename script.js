@@ -5,3 +5,5 @@ console.log(titels.classList.contains("red"));
 // titels.classList.add('uppercas')
 // titels.classList.remove('uppercase')
 titels.classList.toggle("uppercase");
+console.log(titels.classList.contains("red"));
+console.log(titels.classList);
