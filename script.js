@@ -3,3 +3,4 @@ titels.classList.add("red");
 titels.classList.add("new");
 // titels.classList.add('uppercas')
 // titels.classList.remove('uppercase')
+titels.classList.toggle("uppercase");
